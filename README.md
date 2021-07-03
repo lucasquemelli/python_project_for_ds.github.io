@@ -51,3 +51,27 @@ Thus, we may create a dataframe and append on it the data we select from the web
 
 ![image](https://user-images.githubusercontent.com/81119854/124357017-b24d2900-dbef-11eb-86e5-3e1e79e90980.png)
 
+# Bonus: Graphs
+
+We may use the make_graph function to graph the Tesla Stock Data, the GameStop Stock Data, and also provide a title for the graph.
+
+We should only care about the inputs. It takes a dataframe with stock data (dataframe must contain Date and Close columns), a dataframe with revenue data (dataframe must contain Date and Revenue columns), and the name of the stock.
+
+![image](https://user-images.githubusercontent.com/81119854/124359171-33a9b900-dbfa-11eb-8466-b292d82862ed.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124359206-563bd200-dbfa-11eb-8ab4-b80936b9584e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124359230-66ec4800-dbfa-11eb-9b58-e1f4ad2d29ed.png)
+![image](https://user-images.githubusercontent.com/81119854/124359254-85524380-dbfa-11eb-9e9a-f13015e3ff42.png)
+![image](https://user-images.githubusercontent.com/81119854/124359269-9602b980-dbfa-11eb-90b2-1b1007ab968c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124359278-a1ee7b80-dbfa-11eb-8a81-172579f08b4b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124359290-afa40100-dbfa-11eb-9aeb-d40909a5ec8e.png)
+![image](https://user-images.githubusercontent.com/81119854/124359299-b92d6900-dbfa-11eb-8dd4-33d50ae71573.png)
+![image](https://user-images.githubusercontent.com/81119854/124359313-c5b1c180-dbfa-11eb-961b-01e5948a7fed.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124359334-dfeb9f80-dbfa-11eb-85d9-4871fce80003.png)
+
+
+

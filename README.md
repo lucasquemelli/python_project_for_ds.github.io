@@ -1,4 +1,4 @@
-# python_project_for_ds.github.io
+# webscraping.github.io
 This is a project named "Python Project for Data Science" promoted by IBM. The goal of this project is to extract data from webpages. 
 
 # Question 1 - Use yfinance do extract stock data. Reset the index, save, and display the first five rows of the 'tesla_data' dataframe using the 'head' function.
